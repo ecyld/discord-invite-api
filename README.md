@@ -1,5 +1,5 @@
 # discord-invite-api
-Get discord server invites by using your bot token
+Useful php script for bot developers. Get server invites by using your bot auth. Visit https://www.emircanyildirim.com/inviteapi.php for use it.
 
 Usage
 <li>Upload php file to your project</li>
